@@ -1,6 +1,6 @@
-# ACG on Table Support
+# ACG On Table Support
 
-Thank you for using **ACG on Table** on Apple Vision Pro.
+Thank you for using **ACG On Table** on Apple Vision Pro.
 
 If you experience an issue, have a question, or would like to share feedback, please contact us. We are happy to help.
 
