@@ -1,7 +1,3 @@
----
-title: "Support"
----
-
 # ACG on Table Support
 
 Thank you for using **ACG on Table** on Apple Vision Pro.
