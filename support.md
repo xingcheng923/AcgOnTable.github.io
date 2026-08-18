@@ -1,7 +1,5 @@
 ---
-layout: page
 title: "Support"
-permalink: /support/
 ---
 
 # ACG on Table Support
